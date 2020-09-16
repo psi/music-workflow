@@ -177,6 +177,8 @@ So, that's where I'm at currently. I just used this system when preparing a gig 
 
 Things I'd like to continue to investigate/improve upon:
 
+* In addition the event-oriented playlists I can send to Rekordbox now, I'd like to be able to tag tracks with descriptive tags (e.g. Droney, Twangy, Rhythmic) that I can build smart playlists in Swinsian and Rekordbox with and be able to search on the CDJs. This is basically what Rekordbox's MyTag feature is, but if I use that, I'd want to be able to sync that back to the files in my main library, probably using the comments field. I proved out being able to just put tags in the comments section and send those to Rekordbox, so that's also an option.
+* Being able to do any of this from my phone would also be cool, if I'm listening to stuff in my library via Sonos/Plex or whatever.
 * Having to drag the Rekordbox folder into the Collection pane in Rekordbox is certainly not terrible, but it would be great if new things could pop up in Rekordbox without needing to do it
 * Similarly, the GUI Scripting to import a playlist into Rekordbox works, but is error-prone.
 
